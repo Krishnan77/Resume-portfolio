@@ -1,0 +1,111 @@
+{
+  "main": {
+    "name": "Krishnan C R",
+    "occupation": "Automation Engineer",
+    "description": "Persistent,Enthusiastic and Passionate budding developer",
+    "image": "myimage.jpeg",
+    "bio": "Hi there! I am Krishnan! I've been working with Amazon as Automation Engineer for 2 years , As an Automation Engineer I Identify opportunities for automation within software processes and Design and execute QA tests using scripts that automatically test functionality. I have a skilled knowledge of HTML, CSS, JS, ReactJS  with a vast understanding of User design thinking, From my experience in Front end developing I consider it is my responsibility to Prioritize user experience and bring concepts to life.",
+    "contactmessage": "Get in touch ",
+    "email": "crkrishnan007@gmail.com",
+    "phone": "8667204283",
+    "address": {
+      "street":"Murugappa Nagar , 2nd Street",
+      "city": "Chennai",
+      "state": "Tamilnadu"
+      
+    },
+   
+    "social": [
+      
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/krishnan-cr/",
+        "className": "fa fa-linkedin"
+      },
+    
+      {
+        "name": "github",
+        "url": "https://github.com/Krishnan77",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Prince Shri venkateshwara Engg College",
+        "degree": "Bachelor's Degree, Mechanical",
+        "graduated": "April 2018",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "Amazon",
+        "title": "Automation Engineer",
+        "years": "Sep 2019 - Present",
+        "description": "Automation, Front-End and UI testing."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+    
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "79%"
+      },
+      {
+        "name": "Web Development",
+        "level": "65%"
+      },
+      {
+        "name": "HTML",
+        "level": "85%"
+      },
+      {
+        "name": "CSS",
+        "level": "75%"
+      },
+      {
+        "name": "xml",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Netflix Clone (React JS)",
+        "category": "",
+        "image": "Screenshot (6).png",
+        "url": "https://netflix-clone-project-first.web.app/"
+      },
+      {
+        "title": "Rapid Turtles (React JS)",
+        "category": "",
+        "image": "Screenshot (9).png",
+        "url": "http://rapidturtles.com/"
+      },
+      {
+        "title": "Censcaff Rental Services (React JS)",
+        "category": "",
+        "image": "Screenshot (7).png",
+        "url": "http://censcaffrentalservices.com/"
+      },
+       {
+        "title": "Censcaff Engineers (React JS)",
+        "category": "",
+        "image": "Screenshot (8).png",
+        "url": "http://censcaffrentalservices.com/"
+      }
+    ]
+  }
+}
